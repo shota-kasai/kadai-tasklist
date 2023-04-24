@@ -1,6 +1,6 @@
-# fly.toml file generated for sparkling-smoke-3888 on 2023-03-29T10:00:05Z
+# fly.toml file generated for patient-brook-6397 on 2023-04-24T11:25:44Z
 
-app = "sparkling-smoke-3888"
+app = "patient-brook-6397"
 kill_signal = "SIGINT"
 kill_timeout = 5
 mounts = []

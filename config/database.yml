@@ -52,7 +52,7 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  host: db.tzgxprdvizaxzalxntvx.supabase.co
+  host: db.cinvkujzxlqpggwrufup.supabase.co
   database: postgres
   username: postgres
-  password: 4JSx2xg9GdiJKqWE
+  password: vPajP8jnq6xRxHWk
